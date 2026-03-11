@@ -22,7 +22,7 @@ Passionate about Deep Learning, Computer Vision & emerging blockchain technologi
 
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SECOND_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fathimajasmine16&show_icons=true&theme=radical)
 
 
 ## 📫 Contact Me
