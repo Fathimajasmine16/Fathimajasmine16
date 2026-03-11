@@ -4,6 +4,7 @@ MCA Student | AI & ML Enthusiast 🤖 | Exploring Blockchain ⛓️
 Passionate about Deep Learning, Computer Vision & emerging blockchain technologies 🚀
 
 ## 🛠 Skills
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
