@@ -20,6 +20,9 @@ Passionate about Deep Learning, Computer Vision & emerging blockchain technologi
 
 *(Add blockchain projects later when ready!)*
 
+**Model Accuracy Visualization:**  
+![Classification Accuracy](https://github.com/Fathimajasmine16/Dog-Vs.-Cat-Classification/blob/master/accuracy_plot.png)
+
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fathimajasmine16&show_icons=true&theme=radical)
