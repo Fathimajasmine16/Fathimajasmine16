@@ -13,10 +13,10 @@ Passionate about Deep Learning, Computer Vision & emerging blockchain technologi
 
 ## 🚀 Highlighted Projects
 
-### 1️⃣ Carrot Quality Classification
-- Neural network model to classify carrot images with **98% accuracy**.  
+### 1️⃣ Cat Vs Dog Classification
+- Neural network model to classify cat and dog images with **98% accuracy**.  
 - Technologies: Python, TensorFlow, OpenCV, NumPy, Pandas  
-- [GitHub Link](https://github.com/Priyadharsh05/carrot-quality-classification)  
+- [GitHub Link](https://github.com/Fathimajasmine16/Dog-Vs.-Cat-Classification)  
 
 *(Add blockchain projects later when ready!)*
 
